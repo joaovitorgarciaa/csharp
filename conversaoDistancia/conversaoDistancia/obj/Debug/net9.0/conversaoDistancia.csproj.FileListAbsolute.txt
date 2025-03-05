@@ -1,0 +1,14 @@
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\bin\Debug\net9.0\conversaoDistancia.exe
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\bin\Debug\net9.0\conversaoDistancia.deps.json
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\bin\Debug\net9.0\conversaoDistancia.runtimeconfig.json
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\bin\Debug\net9.0\conversaoDistancia.dll
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\bin\Debug\net9.0\conversaoDistancia.pdb
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.AssemblyInfoInputs.cache
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.AssemblyInfo.cs
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.csproj.CoreCompileInputs.cache
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.dll
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\refint\conversaoDistancia.dll
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.pdb
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\conversaoDistancia.genruntimeconfig.cache
+C:\Users\sugee\Desktop\algoritimos_bd\conversaoDistancia\conversaoDistancia\obj\Debug\net9.0\ref\conversaoDistancia.dll
