@@ -1,0 +1,14 @@
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\bin\Debug\net9.0\cesharpe.exe
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\bin\Debug\net9.0\cesharpe.deps.json
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\bin\Debug\net9.0\cesharpe.runtimeconfig.json
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\bin\Debug\net9.0\cesharpe.dll
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\bin\Debug\net9.0\cesharpe.pdb
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.AssemblyInfoInputs.cache
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.AssemblyInfo.cs
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.csproj.CoreCompileInputs.cache
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.dll
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\refint\cesharpe.dll
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.pdb
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\cesharpe.genruntimeconfig.cache
+C:\Users\sugee\Desktop\algoritimos_bd\cesharpe\cesharpe\obj\Debug\net9.0\ref\cesharpe.dll
