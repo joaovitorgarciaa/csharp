@@ -1,0 +1,14 @@
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\bin\Debug\net9.0\Temperatura.exe
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\bin\Debug\net9.0\Temperatura.deps.json
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\bin\Debug\net9.0\Temperatura.runtimeconfig.json
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\bin\Debug\net9.0\Temperatura.dll
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\bin\Debug\net9.0\Temperatura.pdb
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.AssemblyInfo.cs
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.dll
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\refint\Temperatura.dll
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.pdb
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\Temperatura.genruntimeconfig.cache
+C:\Users\sugee\Desktop\algoritimos_bd\Temperatura\Temperatura\obj\Debug\net9.0\ref\Temperatura.dll
